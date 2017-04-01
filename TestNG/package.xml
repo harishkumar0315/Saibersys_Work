@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Automation Test">
+
+<test name = "Smoke Test">
+
+<packages>
+
+<package name = "testNgFiles"/>
+<package name = "testNgFiles2"/>
+
+</packages>
+
+</test>
+
+</suite>

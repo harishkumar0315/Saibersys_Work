@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Automation Test">
+ <groups>
+       <run>
+            <include name = "Priority2"/>
+       </run>
+ </groups>
+ 
+<test name = "Smoke Test">
+
+<classes>
+
+<class name = "groupsTest.Annotations"/>
+<class name = "groupsTest.Annot2"/>
+
+</classes>
+
+</test>
+
+</suite>
